@@ -86,7 +86,7 @@ Implements a stateless and secure authentication flow suitable for modern web ap
 
 ---
 
-## 💻 Tech Stack (Detailed)
+## 💻 Tech Stack 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -103,18 +103,9 @@ Implements a stateless and secure authentication flow suitable for modern web ap
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhaykumarbadam&theme=dark&hide_border=true)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Abhaykumarbadam&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaykumarbadam&layout=compact&theme=dark&hide_border=true)
-
----
-
 ✍️ **Random Dev Quote**
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Abhaykumarbadam&icon=0&color=13)
