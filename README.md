@@ -49,34 +49,34 @@ Enhances traditional language models by integrating external knowledge sources f
 
 ---
 
-### 2. Agentic-AI-Assistant-using-python
-🔗 https://github.com/Abhaykumarbadam/Agentic-AI-Assistant-using-python
+### 2. rust-wasm-text-analyzer
+🔗 https://github.com/Abhaykumarbadam/rust-wasm-text-analyzer
 
 **Description**  
-An **AI-powered assistant** built using Python that can reason, access external tools, and automate tasks.  
-The project simulates real-world AI assistants with integrated decision-making workflows.
+A **Rust + WebAssembly (WASM)** based text analysis tool designed to run efficiently in the browser.  
+The project exposes Rust functions to JavaScript via WASM, enabling fast and secure text parsing and analysis on the client side.
 
 **Tech Stack**  
-Python · OpenAI API · LangChain
+Rust · WebAssembly (WASM)
 
 **Problem Solved**  
-Demonstrates multi-tool integration for intelligent task automation and agent-based reasoning.
+Delivers high-performance text analysis directly in web applications without relying on backend processing.
 
 ---
 
-### 3. Agnetic-Tools — AI-Powered Financial Research Chrome Extension
-🔗 https://github.com/Abhaykumarbadam/Agnetic-Tools---AI-Powered-Financial-Research-Chrome-Extension
+### 3. JWT-Authentication-System
+🔗 https://github.com/Abhaykumarbadam/JWT-Authentication-System
 
 **Description**  
-A **browser extension** that uses AI to provide real-time financial insights, enabling informed investment decisions directly from the browser.
+A **JWT-based authentication system** that demonstrates secure user authentication and authorization using token-based mechanisms.  
+Includes user registration, login, token generation, and protected routes for APIs.
 
 **Tech Stack**  
-JavaScript · Chrome Extensions API · OpenAI · Firebase
+Rust · Rocket.rs · JWT · REST API
 
 **Problem Solved**  
-Combines AI-driven research with financial data to deliver real-time, accessible, and actionable insights.
+Implements a stateless and secure authentication flow suitable for modern web applications and backend services.
 
----
 
 ## 📈 What I'm Learning
 
