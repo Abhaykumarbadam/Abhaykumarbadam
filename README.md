@@ -11,7 +11,7 @@ My journey is driven by curiosity to understand how emerging technologies solve 
 
 - 🎓 **Student** specializing in Artificial Intelligence and Machine Learning  
 - 🛠️ Building projects that bridge **theoretical learning** and **industrial applications**  
-- 🔍 Actively experimenting with **LangChain**, **Python**, **AI assistants**, and **browser extensions**
+- 🔍 Actively experimenting with **LangChain**, **Python**, **AI assistants**
 
 ---
 
@@ -82,7 +82,7 @@ Implements a stateless and secure authentication flow suitable for modern web ap
 
 - Advanced AI techniques in **Natural Language Processing**, **Deep Learning**, and **Reinforcement Learning**
 - Building smarter AI tools using **LangChain** and external APIs
-- Developing **AI-powered Chrome extensions** for productivity and decision-making
+
 
 ---
 
