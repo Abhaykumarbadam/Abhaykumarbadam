@@ -1,17 +1,120 @@
-  #💫 About Me:
-  👋 Hello, I'm Abhay Kumar Badam!<br><br>    🌱 I'm an **AIML student** passionate about developing **AI-powered applications**, **Machine Learning models**, and exploring the latest in **cutting-edge technologies**. My journey is driven by curiosity to understand how new technologies solve real-world problems and transform industries.<br><br>---<br><br>   # 💼 Current Status<br><br>* I’m a **student** exploring Artificial Intelligence and Machine Learning.<br>* Currently building projects that bridge the gap between theoretical learning and industrial application.<br>* Always experimenting with **tools** like **LangChain**, **Python**, **AI assistants**, and **browser extensions**.<br><br>---<br><br>   #💡 My Tech Stack<br> <br><br> <br>* **Languages**: Python, JavaScript<br>* **Libraries/Frameworks**: LangChain, OpenAI, ChromaDB, Flask, TensorFlow, PyTorch, NLTK<br>* **Tools**: Chrome Extensions, Firebase, GitHub Actions<br>* **Databases**: Firebase, SQLite, MySQL<br><br>---<br><br>   #🔥 Featured Projects<br><br>    #1. **[langchain-rag-demo](https://github.com/Abhaykumarbadam/langchain-rag-demo)**<br><br>* **Description**: A demo of **Retrieval-Augmented Generation (RAG)** using **LangChain**, **ChromaDB**, and **OpenAI API**. It shows how language models can answer questions by retrieving relevant data from external sources and combining it with generative capabilities.<br>* **Tech Stack**: LangChain, OpenAI API, ChromaDB<br>* **Problem Solved**: Enhances traditional language models by introducing external knowledge bases for more accurate responses.<br><br>    #2. **[Agentic-AI-Assistant-using-python](https://github.com/Abhaykumarbadam/Agentic-AI-Assistant-using-python)**<br><br>* **Description**: An **AI-powered assistant** built in Python capable of reasoning, accessing external tools, and automating tasks. This project mimics real-world AI assistants and integrates decision-making processes into automation.<br>* **Tech Stack**: Python, OpenAI API, LangChain<br>* **Problem Solved**: Focuses on integrating multi-tool systems for sophisticated task automation and reasoning within the AI assistant.<br><br>    #3. **[Agnetic-Tools---AI-Powered-Financial-Research-Chrome-Extension](https://github.com/Abhaykumarbadam/Agnetic-Tools---AI-Powered-Financial-Research-Chrome-Extension)**<br><br>* **Description**: A **browser extension** that leverages AI to provide real-time financial data insights, helping users make informed investment decisions. It brings AI-driven financial research directly into your browser.<br>* #**Tech Stack**:<br><br> JavaScript, Chrome Extensions API, OpenAI, Firebase<br>* **Problem Solved**: Merges AI research with financial data for real-time, accessible, and actionable insights.<br><br>---<br><br>   #📈 What I'm Learning<br><br>* **Advanced AI techniques** in Natural Language Processing, Deep Learning, and **Reinforcement Learning**.<br>* Experimenting with **LangChain** and integrating **external APIs** for building smarter AI tools.<br>* Exploring how **AI-powered Chrome extensions** can provide value in everyday productivity and decision-making.<br><br>---<br>
+# 💫 About Me
 
+👋 Hello, I'm **Abhay Kumar Badam**
 
-  #💻 Tech Stack:<br><br>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  <br><br><br>
-#📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhaykumarbadam&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abhaykumarbadam&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaykumarbadam&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-    ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🌱 I’m an **AIML student** passionate about developing **AI-powered applications**, building **Machine Learning models**, and exploring **cutting-edge technologies**.  
+My journey is driven by curiosity to understand how emerging technologies solve real-world problems and transform industries.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abhaykumarbadam&icon=0&color=13)](https://visitcount.itsvg.in)
+
+## 💼 Current Status
+
+- 🎓 **Student** specializing in Artificial Intelligence and Machine Learning  
+- 🛠️ Building projects that bridge **theoretical learning** and **industrial applications**  
+- 🔍 Actively experimenting with **LangChain**, **Python**, **AI assistants**, and **browser extensions**
+
+---
+
+## 💡 Tech Stack
+
+**Languages**
+- Python, JavaScript
+
+**Libraries & Frameworks**
+- LangChain, OpenAI, ChromaDB  
+- Flask, TensorFlow, PyTorch, NLTK
+
+**Tools**
+- Chrome Extensions, Firebase, GitHub Actions
+
+**Databases**
+- Firebase, SQLite, MySQL
+
+---
+
+## 🔥 Featured Projects
+
+### 1. langchain-rag-demo
+🔗 https://github.com/Abhaykumarbadam/langchain-rag-demo
+
+**Description**  
+A demonstration of **Retrieval-Augmented Generation (RAG)** using **LangChain**, **ChromaDB**, and the **OpenAI API**.  
+This project shows how language models can retrieve relevant data from external sources before generating responses.
+
+**Tech Stack**  
+LangChain · OpenAI API · ChromaDB
+
+**Problem Solved**  
+Enhances traditional language models by integrating external knowledge sources for more accurate and reliable responses.
+
+---
+
+### 2. Agentic-AI-Assistant-using-python
+🔗 https://github.com/Abhaykumarbadam/Agentic-AI-Assistant-using-python
+
+**Description**  
+An **AI-powered assistant** built using Python that can reason, access external tools, and automate tasks.  
+The project simulates real-world AI assistants with integrated decision-making workflows.
+
+**Tech Stack**  
+Python · OpenAI API · LangChain
+
+**Problem Solved**  
+Demonstrates multi-tool integration for intelligent task automation and agent-based reasoning.
+
+---
+
+### 3. Agnetic-Tools — AI-Powered Financial Research Chrome Extension
+🔗 https://github.com/Abhaykumarbadam/Agnetic-Tools---AI-Powered-Financial-Research-Chrome-Extension
+
+**Description**  
+A **browser extension** that uses AI to provide real-time financial insights, enabling informed investment decisions directly from the browser.
+
+**Tech Stack**  
+JavaScript · Chrome Extensions API · OpenAI · Firebase
+
+**Problem Solved**  
+Combines AI-driven research with financial data to deliver real-time, accessible, and actionable insights.
+
+---
+
+## 📈 What I'm Learning
+
+- Advanced AI techniques in **Natural Language Processing**, **Deep Learning**, and **Reinforcement Learning**
+- Building smarter AI tools using **LangChain** and external APIs
+- Developing **AI-powered Chrome extensions** for productivity and decision-making
+
+---
+
+## 💻 Tech Stack (Detailed)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhaykumarbadam&theme=dark&hide_border=true)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Abhaykumarbadam&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaykumarbadam&layout=compact&theme=dark&hide_border=true)
+
+---
+
+✍️ **Random Dev Quote**
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=Abhaykumarbadam&icon=0&color=13)
